@@ -1,3 +1,3 @@
 # Random-Generator
 <br>
-This project is made using react
+This project is made using React.js
